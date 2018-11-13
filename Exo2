@@ -1,0 +1,6 @@
+var x = 0;
+var n = prompt('Donner la valeur jusqu où vous voulez aller');
+while (n > x) {
+	alert( 'x vaut :' + x); 
+	x++;
+}
